@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/LevelEditor"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "warning"
+    }
+}
